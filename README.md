@@ -56,7 +56,7 @@ OpenVINO Notebooks require Python and Git. Select a guide for your operating sys
 
 ## 🚀 Getting Started
 
-Here you will fine a collection of notebooks categorized into four classes, select the one is more related with your need or test all if you want. Good Luck! 
+Here you will find a collection of notebooks categorized into four classes, select the one is more related with your need or test all if you want. Good Luck! 
 
 <div id='first-steps'/>
 
